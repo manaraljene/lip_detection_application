@@ -8,7 +8,7 @@ This project is a lip reading application that uses computer vision and deep lea
 ---
 
 🎯 Supported Words
-The model is trained to recognize the following words/phrases:
+The model is trained to recognize the following words/phrases (Dataset From Kaggle):
 
 Stop navigation
 
